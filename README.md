@@ -37,3 +37,4 @@ In order to compile the program, you will need to download the latest release of
 After downloading, open the zip file and extract the content (should be a folder named "tagui") into the folder in which the content of this repository is located in.
 After doing that, navigate into the "Install" folder of this repository and compile the "FireRTC Caller ID Changer.iss" file.
 For compiling the file you need to have the "Inno Setup" application installed on your computer which can be downloaded from http://www.jrsoftware.org/isinfo.php.
+## Full Credit to the original author/s
